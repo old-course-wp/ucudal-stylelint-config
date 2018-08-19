@@ -1,6 +1,6 @@
 {
   "name": "@ucudal/stylelint-config",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "CSS style guide",
   "main": "index.js",
   "repository": "https://github.com/ucudal-wp/ucudal-stylelint-config.git",
