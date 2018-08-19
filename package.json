@@ -1,0 +1,31 @@
+{
+  "name": "@ucudal/stylelint-config",
+  "version": "0.0.0",
+  "description": "CSS style guide",
+  "main": "index.js",
+  "repository": "https://github.com/ucudal-wp/ucudal-stylelint-config.git",
+  "author": "Matias Olivera <javier.olivera@ucu.edu.uy>",
+  "contributors": [
+    "Matias Olivera <javier.olivera@ucu.edu.uy>",
+    "Rodrigo Espinosa"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "ucudal",
+    "css",
+    "styleguide"
+  ],
+  "dependencies": {
+    "stylelint-config-standard": "^18.2.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^8.3.0 || ^9.0.0"
+  },
+  "devDependencies": {
+    "@ucudal/eslint-config": "^0.2.0",
+    "eslint": "^5.3.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
