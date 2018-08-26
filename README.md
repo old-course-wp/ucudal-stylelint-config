@@ -27,7 +27,7 @@ Linux/OSX users can run:
 Which produces and runs a command like:
 
 ```sh
-npm install --save-dev @ucudal/stylelint-config@latest stylelint@^x.y.z stylelint-plugin-import@^x.y.z
+npm install --save-dev @ucudal/stylelint-config@latest stylelint@^x.y.z
 ```
 
 Windows users can install the `@ucudal/stylelint-config` and all its peer
